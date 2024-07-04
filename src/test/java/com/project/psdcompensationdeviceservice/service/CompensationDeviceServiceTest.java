@@ -39,6 +39,7 @@ public class CompensationDeviceServiceTest {
     public void compensationDeviceService_saveCompensationDeviceSelectionInformation() {
 
         CompensationDeviceCalculation compensationDeviceCalculation = new CompensationDeviceCalculation();
+
         CompensationDeviceSelection compensationDeviceSelectionInformation = compensationDeviceCalculation
                 .createCompensationDeviceSelectionInformation((short) 3, 0.94F, 1.16F);
 
