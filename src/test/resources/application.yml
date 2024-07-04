@@ -1,0 +1,22 @@
+spring:
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
+  datasource:
+    url: jdbc:h2:~/test
+    driver-class-name: org.h2.Driver
+  flyway:
+    baseline-on-migrate: true
+  jpa:
+    hibernate:
+      ddl-auto: create
+  cloud:
+    config:
+      enabled: false
+eureka:
+  client:
+    enabled: false
+
+server:
+  port: 8080
