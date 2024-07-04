@@ -1,0 +1,2 @@
+delete from compensation_device_selection
+where compensation_device_selection_id > 0;
