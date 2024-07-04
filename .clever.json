@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "app_id": "app_13b48729-6e00-45d0-9e3c-403547d74f06",
+      "org_id": "user_7779af19-f554-40b4-b950-10f1b7302215",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_13b48729-6e00-45d0-9e3c-403547d74f06.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_13b48729-6e00-45d0-9e3c-403547d74f06.git",
+      "name": "psd-compensation-device-service",
+      "alias": "psd-compensation-device-service"
+    }
+  ]
+}
