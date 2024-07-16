@@ -5,4 +5,4 @@ spring:
     import: 'optional:configserver:'
   cloud:
     config:
-      uri: https://app-8b2a441b-b715-4698-9cd5-a9305dcc7ab2.cleverapps.io/
+      uri: https://app-43b27924-768c-4500-a4cf-81b16707471a.cleverapps.io/
